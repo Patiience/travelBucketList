@@ -1,6 +1,6 @@
 **Submitted by**: Rose Smith (superterp)
 
-**Group Members**: Daniel Lu (), Daniel Chen (), Philip Huang (), Ethan Yen (eyen30)
+**Group Members**: Daniel Lu (dlu12), Daniel Chen (dchen117), Philip Huang (phuang16), Ethan Yen (eyen30)
 
 **App Description**: Allow users to get random facts
 
