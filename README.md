@@ -4,7 +4,7 @@
 
 **App Description**: Allow users to get random facts
 
-**YouTube Video Link**: https://www.youtube.com/MyAmazingAPP
+**YouTube Video Link**: https://youtu.be/5B4y_I5ZX0w
 
 **APIs**: Random Useless Facts API (https://uselessfacts.jsph.pl/)
 
